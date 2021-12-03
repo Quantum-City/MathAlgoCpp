@@ -1,2 +1,2 @@
-# Compatative Programming
+# Competitive Programming 
 C++ program of some interesting problems
